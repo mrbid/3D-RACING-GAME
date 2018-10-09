@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/GamesDev/!svn/ver/360/EngineSource/GS2/Components/Managers/Screen
+END
+cSprite.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Components/Managers/Screen/cSprite.hpp
+END
+cQuad.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Components/Managers/Screen/cQuad.hpp
+END
+cScreenManager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GamesDev/!svn/ver/358/EngineSource/GS2/Components/Managers/Screen/cScreenManager.hpp
+END
+cSprite.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/Components/Managers/Screen/cSprite.cpp
+END
+cQuad.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/GamesDev/!svn/ver/320/EngineSource/GS2/Components/Managers/Screen/cQuad.cpp
+END
+cScreenManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/GamesDev/!svn/ver/360/EngineSource/GS2/Components/Managers/Screen/cScreenManager.cpp
+END

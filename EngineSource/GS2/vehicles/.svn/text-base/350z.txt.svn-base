@@ -1,0 +1,33 @@
+chassisModel: 350zchassis.X
+leftFrontWheelModel: 350zleft.X
+rightFrontWheelModel: 350zright.X
+leftRearWheelModel: 350zleft.X
+rightRearWheelModel: 350zright.X
+chassisScale: 0.1
+
+wheelPositionFrontLeft: 2.5, -1.0, 5.6
+wheelPositionFrontRight: -2.5, -1.0, 5.6
+wheelPositionRearLeft: 2.5, -1.0, -5.9
+wheelPositionRearRight: -2.5, -1.0, -5.9
+
+maxSteering: 0.3
+frontWheelRadius: 1.4
+backWheelRadius: 1.4
+chassisMass: 1000.0
+maxBreakingForce: 3000.0
+maxSpeedKPH: 600.0
+maxEngineForce: 6000.0
+accelerationForce: 10000.0
+accelerationStamina: 0.8
+skidForce: 2000.0
+wheelFriction: 1.5
+rollInfluence: 0.02
+
+suspensionStiffness: 40.0
+suspensionRelaxation: 6.0
+suspensionCompression: 4.5
+suspensionRestLength:  1.2
+maxSuspensionForce: 9000.0
+maxSuspensionTravelCm: 40.0
+frictionSlip: 5.0
+wheelDrive: REARWHEEL

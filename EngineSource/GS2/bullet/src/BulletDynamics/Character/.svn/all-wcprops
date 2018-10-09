@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Character
+END
+btKinematicCharacterController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Character/btKinematicCharacterController.h
+END
+btKinematicCharacterController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Character/btKinematicCharacterController.cpp
+END
+btCharacterControllerInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Character/btCharacterControllerInterface.h
+END

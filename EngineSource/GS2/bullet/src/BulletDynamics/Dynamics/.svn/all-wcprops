@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics
+END
+Bullet-C-API.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/Bullet-C-API.cpp
+END
+btSimpleDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.cpp
+END
+btContinuousDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btContinuousDynamicsWorld.h
+END
+btRigidBody.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btRigidBody.cpp
+END
+btSimpleDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btSimpleDynamicsWorld.h
+END
+btRigidBody.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btRigidBody.h
+END
+btDiscreteDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.cpp
+END
+btActionInterface.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btActionInterface.h
+END
+btDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btDynamicsWorld.h
+END
+btContinuousDynamicsWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btContinuousDynamicsWorld.cpp
+END
+btDiscreteDynamicsWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletDynamics/Dynamics/btDiscreteDynamicsWorld.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11
+END
+btSoftBodySolverLinkData_DX11SIMDAware.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolverLinkData_DX11SIMDAware.h
+END
+btSoftBodySolverLinkData_DX11.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolverLinkData_DX11.h
+END
+btSoftBodySolverVertexBuffer_DX11.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolverVertexBuffer_DX11.h
+END
+btSoftBodySolverVertexData_DX11.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolverVertexData_DX11.h
+END
+btSoftBodySolver_DX11SIMDAware.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolver_DX11SIMDAware.cpp
+END
+btSoftBodySolverBuffer_DX11.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolverBuffer_DX11.h
+END
+btSoftBodySolver_DX11.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolver_DX11.cpp
+END
+btSoftBodySolver_DX11SIMDAware.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolver_DX11SIMDAware.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/CMakeLists.txt
+END
+btSoftBodySolverTriangleData_DX11.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolverTriangleData_DX11.h
+END
+btSoftBodySolver_DX11.h
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/GpuSoftBodySolvers/DX11/btSoftBodySolver_DX11.h
+END

@@ -1,0 +1,33 @@
+chassisModel: viper.X
+leftFrontWheelModel: leftviperwheel.X
+rightFrontWheelModel: rightviperwheel.X
+leftRearWheelModel: leftviperwheel.X
+rightRearWheelModel: rightviperwheel.X
+chassisScale: 0.1
+
+wheelPositionFrontLeft: 2.5, 1.0, 5.2
+wheelPositionFrontRight: -2.5, 1.0, 5.2
+wheelPositionRearLeft: 2.5, 1.0, -4.6
+wheelPositionRearRight: -2.5, 1.0, -4.6
+
+maxSteering: 0.3
+frontWheelRadius: 1.2
+backWheelRadius: 1.2
+chassisMass: 1000.0
+maxBreakingForce: 3000.0
+maxSpeedKPH: 600.0
+maxEngineForce: 6000.0
+accelerationForce: 10000.0
+accelerationStamina: 0.8
+skidForce: 2000.0
+wheelFriction: 1.5
+rollInfluence: 0.04
+
+suspensionStiffness: 40.0
+suspensionRelaxation: 6.0
+suspensionCompression: 4.5
+suspensionRestLength:  1.2
+maxSuspensionForce: 9000.0
+maxSuspensionTravelCm: 40.0
+frictionSlip: 5.0
+wheelDrive: REARWHEEL

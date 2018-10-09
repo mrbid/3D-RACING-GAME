@@ -1,0 +1,33 @@
+chassisModel: hotrod.X
+leftFrontWheelModel: lefthotrodwheel.X
+rightFrontWheelModel: righthotrodwheel.X
+leftRearWheelModel: leftrearhotrodwheel.X
+rightRearWheelModel: rightrearhotrodwheel.X
+chassisScale: 0.1
+
+wheelPositionFrontLeft: 2.3, 0.7, 6.1
+wheelPositionFrontRight: -2.2, 0.7, 6.1
+wheelPositionRearLeft: 2.34, 1.0, -3.3
+wheelPositionRearRight: -2.04, 1.0, -3.3
+
+maxSteering: 0.3
+frontWheelRadius: 0.9
+backWheelRadius: 1.4
+chassisMass: 1000.0
+maxBreakingForce: 3000.0
+maxSpeedKPH: 600.0
+maxEngineForce: 6000.0
+accelerationForce: 12500.0
+accelerationStamina: 0.5
+skidForce: 200.0
+wheelFriction: 0.7
+rollInfluence: 0.04
+
+suspensionStiffness: 80.0
+suspensionRelaxation: 15.5
+suspensionCompression: 15.5
+suspensionRestLength:  1.3
+maxSuspensionForce: 9000.0
+maxSuspensionTravelCm: 30.0
+frictionSlip: 5.0
+wheelDrive: REARWHEEL

@@ -1,0 +1,33 @@
+chassisModel: gallardo.X
+leftFrontWheelModel: leftgallardowheel.X
+rightFrontWheelModel: rightgallardowheel.X
+leftRearWheelModel: leftgallardowheel.X
+rightRearWheelModel: rightgallardowheel.X
+chassisScale: 0.1
+
+wheelPositionFrontLeft: 2.5, 0.5, 3.72
+wheelPositionFrontRight: -2.5, 0.5, 3.72
+wheelPositionRearLeft: 2.5, 0.5, -6.35
+wheelPositionRearRight: -2.5, 0.5, -6.35
+
+maxSteering: 0.3
+frontWheelRadius: 1.2
+backWheelRadius: 1.2
+chassisMass: 1000.0
+maxBreakingForce: 3000.0
+maxSpeedKPH: 730.0
+maxEngineForce: 6000.0
+accelerationForce: 14000.0
+accelerationStamina: 0.5
+skidForce: 200.0
+wheelFriction: 0.7
+rollInfluence: 0.04
+
+suspensionStiffness: 80.0
+suspensionRelaxation: 7.0
+suspensionCompression: 6.5
+suspensionRestLength:  0.6
+maxSuspensionForce: 9000.0
+maxSuspensionTravelCm: 35.0
+frictionSlip: 5.0
+wheelDrive: REARWHEEL

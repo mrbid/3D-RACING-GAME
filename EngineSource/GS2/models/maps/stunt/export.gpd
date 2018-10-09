@@ -1,0 +1,189 @@
+STATIC
+StaticPropTrack
+0.X
+pos [0,0,0]
+StaticPropRedScaffold
+1.X
+pos [1525.64,-2511.53,117.716]
+StaticPropRedScaffold001
+2.X
+pos [-2382.54,-281.654,-7.65028]
+StaticPropVan
+3.X
+pos [-2448.62,-60.2588,11.2185]
+StaticPropVan001
+4.X
+pos [1980.21,965.328,11.2185]
+StaticPropRedScaffold002
+5.X
+pos [772.556,1326.17,-7.65028]
+StaticPropRedScaffold003
+6.X
+pos [144.162,-2798.91,152.681]
+StaticPropRedScaffold004
+7.X
+pos [-2285.96,-2511.53,117.716]
+StaticPropRedScaffold005
+8.X
+pos [-2285.96,2791.51,150.093]
+StaticPropRedScaffold006
+9.X
+pos [138.99,2791.51,150.093]
+StaticPropRedScaffold007
+10.X
+pos [1907.08,2211.15,81.0252]
+StaticPropRedcaffold008
+11.X
+pos [3147.16,949.626,74.6126]
+StaticPropRedScaffold009
+12.X
+pos [3765,-1134.73,136.53]
+StaticPropRedScaffold010
+13.X
+pos [-3325.04,-1122.49,87.0702]
+StaticPropRedScaffold011
+14.X
+pos [-3914.21,578.78,141.155]
+END
+
+PHYSICS
+PhysProp 40
+15.X
+pos [1929.8,978.417,106.878]
+PhysProp 40
+16.X
+pos [1541.26,-2449.38,180.769]
+PhysProp 10
+17.X
+pos [1806.65,947.275,59.4862]
+PhysProp 10
+18.X
+pos [1744.02,927.845,67.8065]
+PhysProp 230
+19.X
+pos [1799.86,946.104,0]
+PhysProp 40
+20.X
+pos [1755.96,934.645,60.4505]
+PhysProp 90
+21.X
+pos [1722.43,922.636,0]
+PhysProp 90
+22.X
+pos [1745.46,935.171,0]
+PhysProp 230
+23.X
+pos [1802.11,946.104,19.8204]
+PhysProp 230
+24.X
+pos [1794.3,946.104,40.0015]
+PhysProp 90
+25.X
+pos [1734.34,926.727,29.78]
+PhysProp 10
+26.X
+pos [1790.01,941.667,73.21]
+PhysProp 90
+27.X
+pos [3866.72,-1959.33,155.074]
+PhysProp 90
+28.X
+pos [3843.53,-2019.51,155.074]
+PhysProp 90
+29.X
+pos [3835.03,-2049.79,155.074]
+PhysProp 90
+30.X
+pos [3825.57,-2078.43,155.074]
+PhysProp 90
+31.X
+pos [3872.4,-1938.3,155.074]
+PhysProp 90
+32.X
+pos [3853.11,-1997.91,155.074]
+PhysProp 90
+33.X
+pos [3870.32,-1951.13,184.371]
+PhysProp 90
+34.X
+pos [1105.69,1401.15,29.2193]
+PhysProp 90
+35.X
+pos [1107.01,1354.98,30.328]
+PhysProp 230
+36.X
+pos [981.539,-67.5211,0]
+PhysProp 90
+37.X
+pos [1108.2,1411.59,0]
+PhysProp 90
+38.X
+pos [1110.08,1389.29,60.2761]
+PhysProp 90
+39.X
+pos [1108.2,1464.86,0]
+PhysProp 90
+40.X
+pos [1108.2,1378.86,29.8264]
+PhysProp 90
+41.X
+pos [1108.2,1365.69,0]
+PhysProp 90
+42.X
+pos [1108.2,1341.32,0]
+PhysProp 90
+43.X
+pos [1104.76,1365.98,59.7096]
+PhysProp 90
+44.X
+pos [1109.62,1414.51,60.3718]
+PhysProp 90
+45.X
+pos [1107.01,1429.55,30.328]
+PhysProp 90
+46.X
+pos [1107.01,1454.41,30.328]
+PhysProp 90
+47.X
+pos [1106.98,1440.48,0]
+PhysProp 90
+48.X
+pos [1106.07,1387.36,0]
+PhysProp 90
+49.X
+pos [1106.07,1376.4,90.4231]
+PhysProp 90
+50.X
+pos [1108.2,1400.63,90.4231]
+PhysProp 230
+51.X
+pos [981.539,6.72948,0]
+PhysProp 230
+52.X
+pos [990.49,3.77543,19.2507]
+PhysProp 230
+53.X
+pos [985.516,-69.4903,20.5503]
+PhysProp 230
+54.X
+pos [981.503,10.3019,41.3538]
+PhysProp 230
+55.X
+pos [981.539,-62.9754,40.3701]
+PhysProp 230
+56.X
+pos [984.179,-4.28519,60.9802]
+PhysProp 230
+57.X
+pos [981.539,-102.332,34.6335]
+PhysProp 40
+58.X
+pos [-3258.45,-1147.28,148.42]
+PhysProp 40
+59.X
+pos [121.891,2723.95,213.005]
+PhysProp 40
+60.X
+pos [3074.32,971.24,135.767]
+END
+

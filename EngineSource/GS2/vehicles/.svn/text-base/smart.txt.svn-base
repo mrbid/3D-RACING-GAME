@@ -1,0 +1,33 @@
+chassisModel: smart.X
+leftFrontWheelModel: leftsmartwheel.X
+rightFrontWheelModel: rightsmartwheel.X
+leftRearWheelModel: leftsmartwheel.X
+rightRearWheelModel: rightsmartwheel.X
+chassisScale: 0.05
+
+wheelPositionFrontLeft: 1., 0.3, 1.8
+wheelPositionFrontRight: -1.0, 0.3, 1.8
+wheelPositionRearLeft: 1.1, 0.3, -1.8
+wheelPositionRearRight: -1.1, 0.3, -1.8
+
+maxSteering: 0.3
+frontWheelRadius: 1.0
+backWheelRadius: 1.0
+chassisMass: 600.0
+maxBreakingForce: 1000.0
+maxSpeedKPH: 600.0
+maxEngineForce: 6000.0
+accelerationForce: 15000.0
+accelerationStamina: 0.01
+skidForce: 5.0
+wheelFriction: 0.5
+rollInfluence: 0.04
+
+suspensionStiffness: 80.0
+suspensionRelaxation: 6.0
+suspensionCompression: 4.5
+suspensionRestLength:  0.5
+maxSuspensionForce: 9000.0
+maxSuspensionTravelCm: 40.0
+frictionSlip: 4
+wheelDrive: REARWHEEL

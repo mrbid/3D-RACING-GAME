@@ -1,0 +1,2919 @@
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+
+Vehicle 1 is in sector: 87
+Vehicle 2 is in sector: 87
+Vehicle 3 is in sector: 87
+Vehicle 4 is in sector: 87
+Vehicle 5 is in sector: 87
+Vehicle 6 is in sector: 87
+

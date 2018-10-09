@@ -1,0 +1,393 @@
+﻿Build started 27/04/2011 11:31:49.
+     1>Project "C:\Users\h8043852\Desktop\GAMEDEV\EngineSource\GS2\GS2.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\GS2.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I../GS2/bullet/src /I"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\\Include" /I../GS2 /I"C:\Program Files (x86)\OpenAL 1.1 SDK\include" /I../GS2/freealut/include/AL /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _WINDOWS /D _MBCS /Gm- /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt AI.cpp Bezier.cpp CameraController.cpp Colours.cpp Components\Controllers\Music\cMusic.cpp Components\Controllers\Music\cMusicController.cpp Components\Managers\Input\cInputManager.cpp Components\Managers\Screen\cQuad.cpp Components\Managers\Screen\cScreenManager.cpp Components\Managers\Screen\cSprite.cpp Components\Managers\Screen\GameScreen\cGameScreenCar.cpp Components\Managers\Screen\GameScreen\cGameScreenCarBasic.cpp Components\Managers\Screen\GameScreen\cGameScreenController.cpp Components\Managers\Screen\GameScreen\cGameScreenHud.cpp Components\Managers\Screen\GameScreen\cGameScreenLoading.cpp Components\Managers\Screen\GameScreen\cGameScreenSplash.cpp Components\Managers\Screen\GameScreen\cGameScreenTrack.cpp Components\Managers\Screen\GameScreen\IGameScreen.cpp MatrixLib.cpp MicroTimer.cpp ParticleSystem.cpp PerformanceAnalysis.cpp precom.cpp Quaternion.cpp RaceController.cpp racingLine.cpp Random.cpp Sound.cpp GS2.cpp hr_time.cpp CellularAutomata.cpp BulletPhysics.cpp Camera.cpp GameWorld.cpp SceneNode.cpp PropEntity.cpp ContentManager.cpp D3DRenderer.cpp TrackController.cpp VehicleController.cpp VehicleEntity.cpp
+         AI.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>AI.cpp(41): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(41): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(41): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(41): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(42): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(43): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(43): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(43): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(43): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(44): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(44): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(45): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(45): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(45): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(46): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(46): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>AI.cpp(57): warning C4305: 'initializing' : truncation from 'double' to 'float'
+         Bezier.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>Bezier.cpp(179): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>Bezier.cpp(187): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>Bezier.cpp(201): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+         CameraController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+         Colours.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         cMusic.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         cMusicController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         cInputManager.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>Components\Managers\Input\cInputManager.cpp(204): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Input\cInputManager.cpp(208): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Input\cInputManager.cpp(212): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Input\cInputManager.cpp(216): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Input\cInputManager.cpp(232): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Input\cInputManager.cpp(236): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Input\cInputManager.cpp(240): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Input\cInputManager.cpp(244): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         cQuad.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         cScreenManager.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>Components\Managers\Screen\cScreenManager.cpp(193): warning C4018: '<' : signed/unsigned mismatch
+     1>Components\Managers\Screen\cScreenManager.cpp(223): warning C4018: '<' : signed/unsigned mismatch
+     1>Components\Managers\Screen\cScreenManager.cpp(239): warning C4018: '<' : signed/unsigned mismatch
+         cSprite.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         cGameScreenCar.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>Components\Managers\Screen\GameScreen\cGameScreenCar.cpp(78): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCar.cpp(107): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCar.cpp(115): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCar.cpp(123): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCar.cpp(131): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCar.cpp(152): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         cGameScreenCarBasic.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>Components\Managers\Screen\GameScreen\cGameScreenCarBasic.cpp(44): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCarBasic.cpp(71): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCarBasic.cpp(79): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenCarBasic.cpp(108): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         cGameScreenController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>Components\Managers\Screen\GameScreen\cGameScreenController.cpp(23): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenController.cpp(73): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         cGameScreenHud.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>Components\Managers\Screen\GameScreen\cGameScreenHud.cpp(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenHud.cpp(44): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenHud.cpp(45): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenHud.cpp(55): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         cGameScreenLoading.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>Components\Managers\Screen\GameScreen\cGameScreenLoading.cpp(27): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenLoading.cpp(82): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenLoading.cpp(309): warning C4244: '=' : conversion from 'const int' to 'float', possible loss of data
+         cGameScreenSplash.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>Components\Managers\Screen\GameScreen\cGameScreenSplash.cpp(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenSplash.cpp(83): warning C4305: '-=' : truncation from 'double' to 'float'
+     1>Components\Managers\Screen\GameScreen\cGameScreenSplash.cpp(91): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>Components\Managers\Screen\GameScreen\cGameScreenSplash.cpp(118): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         cGameScreenTrack.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>Components\Managers\Screen\GameScreen\cGameScreenTrack.cpp(42): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenTrack.cpp(69): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenTrack.cpp(77): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>Components\Managers\Screen\GameScreen\cGameScreenTrack.cpp(111): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         IGameScreen.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         MatrixLib.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         MicroTimer.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         Compiling...
+         ParticleSystem.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>ParticleSystem.cpp(203): warning C4244: 'argument' : conversion from 'const double' to 'const float', possible loss of data
+     1>ParticleSystem.cpp(203): warning C4244: 'argument' : conversion from 'const double' to 'const float', possible loss of data
+     1>ParticleSystem.cpp(206): warning C4805: '==' : unsafe mix of type 'float' and type 'bool' in operation
+     1>ParticleSystem.cpp(207): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ParticleSystem.cpp(209): warning C4244: 'argument' : conversion from 'const double' to 'float', possible loss of data
+     1>ParticleSystem.cpp(212): warning C4805: '==' : unsafe mix of type 'float' and type 'bool' in operation
+     1>ParticleSystem.cpp(213): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>ParticleSystem.cpp(215): warning C4244: 'argument' : conversion from 'const double' to 'float', possible loss of data
+         PerformanceAnalysis.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\PerformanceAnalysis.h(42): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>PerformanceAnalysis.cpp(21): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>PerformanceAnalysis.cpp(26): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         precom.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         Quaternion.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+         RaceController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>RaceController.cpp(29): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+         racingLine.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>racingLine.cpp(57): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(62): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(67): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(72): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(77): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(82): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(87): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(92): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(97): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(102): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(107): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>racingLine.cpp(118): warning C4018: '<' : signed/unsigned mismatch
+         Random.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         Sound.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>Sound.cpp(87): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+         GS2.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>GS2.cpp(158): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         hr_time.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         CellularAutomata.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>CellularAutomata.cpp(417): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(418): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(419): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(431): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(432): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(433): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(445): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(446): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(447): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(485): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(486): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(487): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(499): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(500): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(501): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(539): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(540): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(541): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(553): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(554): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(555): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(567): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(568): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(569): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(607): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(608): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(609): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(621): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(622): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+     1>CellularAutomata.cpp(623): warning C4244: '=' : conversion from 'float' to 'UCHAR', possible loss of data
+         BulletPhysics.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+         Camera.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         GameWorld.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\PerformanceAnalysis.h(42): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>GameWorld.cpp(127): warning C4482: nonstandard extension used: enum 'LIGHTTYPE' used in qualified name
+     1>GameWorld.cpp(173): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+         SceneNode.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+         PropEntity.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+         ContentManager.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>ContentManager.cpp(153): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+         D3DRenderer.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+         TrackController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>TrackController.cpp(104): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>TrackController.cpp(114): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(122): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(129): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(130): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(133): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>TrackController.cpp(150): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(156): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(163): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(164): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>TrackController.cpp(167): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+         VehicleController.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>VehicleController.cpp(60): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(234) : see declaration of 'fopen'
+     1>VehicleController.cpp(63): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(64): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(65): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(66): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(67): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(68): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(70): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(71): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(72): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(73): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(75): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(76): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(77): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(78): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(79): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(81): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(83): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(85): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(88): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(91): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(92): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(93): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(95): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(96): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(97): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(98): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(99): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(100): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(101): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(104): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(253) : see declaration of 'fscanf'
+     1>VehicleController.cpp(124): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>VehicleController.cpp(125): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>VehicleController.cpp(126): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>VehicleController.cpp(127): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>VehicleController.cpp(128): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+     1>VehicleController.cpp(132): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+         Compiling...
+         VehicleEntity.cpp
+     1>C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\xlocale(323): warning C4530: C++ exception handler used, but unwind semantics are not enabled. Specify /EHsc
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\Quaternion.h(49): warning C4172: returning address of local variable or temporary
+     1>VehicleEntity.cpp(46): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(371) : see declaration of 'sprintf'
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /l"0x0409" /nologo /fo"Release\GS2.res" GS2.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\h8043852\Desktop\GAMEDEV\EngineSource\Release\GS2.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:../GS2/bullet /LIBPATH:"C:\Program Files (x86)\Microsoft DirectX SDK (June 2010)\\Lib\x86" /LIBPATH:"C:\Program Files (x86)\OpenAL 1.1 SDK\libs\Win32" d3d9.lib d3dx9.lib dxerr.lib winmm.lib Xinput.lib BulletDynamics.lib BulletCollision.lib LinearMath.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\GS2.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\h8043852\Desktop\GAMEDEV\EngineSource\Release\GS2.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\h8043852\Desktop\GAMEDEV\EngineSource\Release\GS2.lib" /MACHINE:X86 Release\GS2.res
+         Release\AI.obj
+         Release\Bezier.obj
+         Release\CameraController.obj
+         Release\Colours.obj
+         Release\cMusic.obj
+         Release\cMusicController.obj
+         Release\cInputManager.obj
+         Release\cQuad.obj
+         Release\cScreenManager.obj
+         Release\cSprite.obj
+         Release\cGameScreenCar.obj
+         Release\cGameScreenCarBasic.obj
+         Release\cGameScreenController.obj
+         Release\cGameScreenHud.obj
+         Release\cGameScreenLoading.obj
+         Release\cGameScreenSplash.obj
+         Release\cGameScreenTrack.obj
+         Release\IGameScreen.obj
+         Release\MatrixLib.obj
+         Release\MicroTimer.obj
+         Release\ParticleSystem.obj
+         Release\PerformanceAnalysis.obj
+         Release\precom.obj
+         Release\Quaternion.obj
+         Release\RaceController.obj
+         Release\racingLine.obj
+         Release\Random.obj
+         Release\Sound.obj
+         Release\GS2.obj
+         Release\hr_time.obj
+         Release\CellularAutomata.obj
+         Release\BulletPhysics.obj
+         Release\Camera.obj
+         Release\GameWorld.obj
+         Release\SceneNode.obj
+         Release\PropEntity.obj
+         Release\ContentManager.obj
+         Release\D3DRenderer.obj
+         Release\TrackController.obj
+         Release\VehicleController.obj
+         Release\VehicleEntity.obj
+         Generating code
+     1>c:\users\h8043852\desktop\gamedev\enginesource\gs2\components\managers\screen\cscreenmanager.cpp(85): warning C4715: 'flex::components::cScreenManager::AddScreen' : not all control paths return a value
+         Finished generating code
+         GS2.vcxproj -> C:\Users\h8043852\Desktop\GAMEDEV\EngineSource\Release\GS2.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\h8043852\Desktop\GAMEDEV\EngineSource\Release\GS2.exe;#1" /manifest Release\GS2.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Release\GS2.unsuccessfulbuild".
+         Touching "Release\GS2.lastbuildstate".
+     1>Done Building Project "C:\Users\h8043852\Desktop\GAMEDEV\EngineSource\GS2\GS2.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:01:21.81

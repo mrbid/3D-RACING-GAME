@@ -1,0 +1,150 @@
+--By James Fletcher
+Rollout exporter "Burning Rubber Exporter"
+(
+    button exportall "Export All"
+    --button exportselected "Export Selected"
+
+	--Export All Necessary Object From Scene
+    on exportall pressed do
+    (
+		--XFile Count
+		xfilecount = 0
+		
+		--Open Export File
+		filename = getsavefilename caption:"Save as" type:"gpd file|*.gpd" filename:"*.gpd"
+        outfile = createfile filename
+		
+		--Loop Through Selected Items and export Tree's
+		format "PHYSICS PROPS START" to:outfile
+		for g in geometry do
+		(
+			if(findString g.name "physprop") != undefined then
+			(
+				--Write Out Matrix Transform
+				format "\n%\n%.X\nrow1 %\nrow2 %\nrow3 %\nrow4 %" \
+				g.name \
+				xfilecount \
+				g.transform.row1 \
+				g.transform.row2 \
+				g.transform.row3 \
+				g.transform.row4 to:outfile
+				
+				--Export X File
+				select g
+				exportFile(getFilenamePath filename + (xfilecount as string) + ".X") #noPrompt selectedOnly:true using:PandaDirectXMaxExporter
+				max select none
+				
+				--Increment X File Name
+				xfilecount = xfilecount + 1
+			)
+		)
+		format "\nPHYSICS PROPS END\n\n" to:outfile
+		
+		--Loop Through Selected Items and export Trees
+		format "TREES START" to:outfile
+		for g in geometry do
+		(
+			if(findString g.name "tree") != undefined then
+			(
+				--Write Out Matrix Transform
+				format "\n%\n%.X\nrow1 %\nrow2 %\nrow3 %\nrow4 %" \
+				g.name \
+				xfilecount \
+				g.transform.row1 \
+				g.transform.row2 \
+				g.transform.row3 \
+				g.transform.row4 to:outfile
+				
+				--Export X File
+				select g
+				exportFile(getFilenamePath filename + (xfilecount as string) + ".X") #noPrompt selectedOnly:true using:PandaDirectXMaxExporter
+				max select none
+				
+				--Increment X File Name
+				xfilecount = xfilecount + 1
+			)
+		)
+		format "\nTREES END\n\n" to:outfile
+		
+		--Close Export File
+		fclose outfile
+    )
+   
+	--Only Export Selected (Redundent, go through selected list and note names, then reselect based on name)
+    on exportselected pressed do
+	(
+		--XFile Count
+		xfilecount = 0
+		
+		--Enable Undo of Selection
+		undo on
+		(
+			select
+		)
+		
+		--Open Export File
+		filename = getsavefilename caption:"Save as" type:"gpd file|*.gpd" filename:"*.gpd"
+        outfile = createfile filename
+		
+		--Loop Through Selected Items and export Tree's
+		format "PHYSICS PROPS START" to:outfile
+		for i = 1 to selection.count do
+		(
+			if(findString selection[i].name "physprop") != undefined then
+			(
+				--Write Out Matrix Transform
+				format "\n%\n%.X\nrow1 %\nrow2 %\nrow3 %\nrow4 %" \
+				selection[i].name \
+				xfilecount \
+				selection[i].transform.row1 \
+				selection[i].transform.row2 \
+				selection[i].transform.row3 \
+				selection[i].transform.row4 to:outfile
+				
+				--Export X File
+				select selection[i]
+				exportFile(getFilenamePath filename + (xfilecount as string) + ".X") #noPrompt selectedOnly:true using:PandaDirectXMaxExporter
+				max undo
+				
+				--Increment X File Name
+				xfilecount = xfilecount + 1
+			)
+		)
+		format "\nPHYSICS PROPS END\n\n" to:outfile
+		
+		--Loop Through Selected Items and export Trees
+		format "TREES START" to:outfile
+		for i = 1 to selection.count do
+		(
+			if(findString selection[i].name "tree") != undefined then
+			(
+				--Write Out Matrix Transform
+				format "\n%\n%.X\nrow1 %\nrow2 %\nrow3 %\nrow4 %" \
+				selection[i].name \
+				xfilecount \
+				selection[i].transform.row1 \
+				selection[i].transform.row2 \
+				selection[i].transform.row3 \
+				selection[i].transform.row4 to:outfile
+				
+				--Export X File
+				select selection[i]
+				exportFile(getFilenamePath filename + (xfilecount as string) + ".X") #noPrompt selectedOnly:true using:PandaDirectXMaxExporter
+				max undo
+				
+				--Increment X File Name
+				xfilecount = xfilecount + 1
+			)
+		)
+		format "\nTREES END\n\n" to:outfile
+		
+		--Close Export File
+		fclose outfile
+	)
+)
+
+objEd = newRolloutFloater "Burning Rubber Tools" 245 100 50 50
+addrollout exporter objEd 
+
+
+

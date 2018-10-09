@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet
+END
+BulletDynamicsDbg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/BulletDynamicsDbg.lib
+END
+BulletDynamics.lib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/BulletDynamics.lib
+END
+BulletCollisionDbg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/BulletCollisionDbg.lib
+END
+LinearMathDbg.lib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/LinearMathDbg.lib
+END
+BulletCollision.lib
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/BulletCollision.lib
+END
+LinearMath.lib
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/LinearMath.lib
+END

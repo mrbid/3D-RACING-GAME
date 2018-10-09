@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/GamesDev/!svn/ver/361/EngineSource/GS2
+END
+AI.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/GamesDev/!svn/ver/305/EngineSource/GS2/AI.h
+END
+CellularAutomata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/CellularAutomata.cpp
+END
+BulletPhysics.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/GamesDev/!svn/ver/317/EngineSource/GS2/BulletPhysics.h
+END
+small.ico
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/GamesDev/!svn/ver/99/EngineSource/GS2/small.ico
+END
+CameraController.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/CameraController.h
+END
+D3DRenderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/GamesDev/!svn/ver/356/EngineSource/GS2/D3DRenderer.cpp
+END
+SceneNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/GamesDev/!svn/ver/356/EngineSource/GS2/SceneNode.cpp
+END
+PerformanceAnalysis.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/PerformanceAnalysis.cpp
+END
+targetver.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/targetver.h
+END
+GlobalMacros.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/GlobalMacros.h
+END
+PropEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/GamesDev/!svn/ver/261/EngineSource/GS2/PropEntity.cpp
+END
+ParticleSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/ParticleSystem.h
+END
+GS2.vcxproj.user
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/GamesDev/!svn/ver/317/EngineSource/GS2/GS2.vcxproj.user
+END
+RaceTrack_Sector.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/GamesDev/!svn/ver/299/EngineSource/GS2/RaceTrack_Sector.h
+END
+VehicleController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/VehicleController.cpp
+END
+Quaternion.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/Quaternion.cpp
+END
+GS2.vcproj.WINDOWS.h8043852.user
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/GS2.vcproj.WINDOWS.h8043852.user
+END
+Colours.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Colours.cpp
+END
+Sound.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/Sound.cpp
+END
+AI.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/GamesDev/!svn/ver/321/EngineSource/GS2/AI.cpp
+END
+Vector3.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Vector3.h
+END
+Camera.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/Camera.h
+END
+MatrixLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/318/EngineSource/GS2/MatrixLib.h
+END
+GS2.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/360/EngineSource/GS2/GS2.vcxproj
+END
+AI_Debug_Info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/GamesDev/!svn/ver/356/EngineSource/GS2/AI_Debug_Info.txt
+END
+Keyframe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Keyframe.h
+END
+TrackController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/GamesDev/!svn/ver/356/EngineSource/GS2/TrackController.cpp
+END
+GS2.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/GamesDev/!svn/ver/360/EngineSource/GS2/GS2.vcxproj.filters
+END
+OpenAL32.dll
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/OpenAL32.dll
+END
+GS2.rc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/GS2.rc
+END
+RaceController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/RaceController.cpp
+END
+PerfomanceAnalysis.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/GamesDev/!svn/ver/344/EngineSource/GS2/PerfomanceAnalysis.txt
+END
+Bezier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/GamesDev/!svn/ver/291/EngineSource/GS2/Bezier.cpp
+END
+Random.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Random.cpp
+END
+racingLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/GamesDev/!svn/ver/303/EngineSource/GS2/racingLine.h
+END
+MathLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/MathLib.h
+END
+GameWorld.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/358/EngineSource/GS2/GameWorld.h
+END
+Physics.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/Physics.h
+END
+ReadMe.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/GamesDev/!svn/ver/230/EngineSource/GS2/ReadMe.txt
+END
+MatrixLib.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/GamesDev/!svn/ver/291/EngineSource/GS2/MatrixLib.cpp
+END
+Colours.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/Colours.h
+END
+Sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Sound.h
+END
+iRandom.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/iRandom.h
+END
+MAXEXPORTERSCRIPT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/GamesDev/!svn/ver/200/EngineSource/GS2/MAXEXPORTERSCRIPT.txt
+END
+GS2.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/GS2.h
+END
+BlimpEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/GamesDev/!svn/ver/348/EngineSource/GS2/BlimpEntity.h
+END
+MicroTimer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/GamesDev/!svn/ver/269/EngineSource/GS2/MicroTimer.cpp
+END
+ContentManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/GamesDev/!svn/ver/291/EngineSource/GS2/ContentManager.h
+END
+racingLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/GamesDev/!svn/ver/303/EngineSource/GS2/racingLine.cpp
+END
+MilliTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/MilliTimer.h
+END
+GS2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/GS2.vcproj
+END
+BaseEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/BaseEntity.h
+END
+VehicleEntity.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/GamesDev/!svn/ver/291/EngineSource/GS2/VehicleEntity.cpp
+END
+TrackController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/GamesDev/!svn/ver/348/EngineSource/GS2/TrackController.h
+END
+utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/305/EngineSource/GS2/utilities.h
+END
+GameWorld.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/GamesDev/!svn/ver/358/EngineSource/GS2/GameWorld.cpp
+END
+RaceController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/RaceController.h
+END
+BaseController.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/BaseController.h
+END
+Random.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Random.h
+END
+Craigs_Node_Info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/GamesDev/!svn/ver/304/EngineSource/GS2/Craigs_Node_Info.txt
+END
+Bezier.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/GamesDev/!svn/ver/291/EngineSource/GS2/Bezier.h
+END
+Craigs_Debug_Info.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/Craigs_Debug_Info.txt
+END
+Vector2.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Vector2.h
+END
+BulletPhysics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/GamesDev/!svn/ver/257/EngineSource/GS2/BulletPhysics.cpp
+END
+SceneNodeGraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/GamesDev/!svn/ver/268/EngineSource/GS2/SceneNodeGraph.h
+END
+precom.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/precom.h
+END
+GS2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/GamesDev/!svn/ver/328/EngineSource/GS2/GS2.cpp
+END
+CameraController.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/CameraController.cpp
+END
+hr_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/hr_time.h
+END
+resource.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/resource.h
+END
+Collision.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/Collision.h
+END
+CellularAutomata.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/CellularAutomata.h
+END
+ContentManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/GamesDev/!svn/ver/356/EngineSource/GS2/ContentManager.cpp
+END
+D3DRenderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/GamesDev/!svn/ver/268/EngineSource/GS2/D3DRenderer.h
+END
+GS2.vcproj.MrPuzzle-PC.MrPuzzle.user
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/GS2.vcproj.MrPuzzle-PC.MrPuzzle.user
+END
+ParticleSystem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/ParticleSystem.cpp
+END
+InputController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/InputController.h
+END
+SceneNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/356/EngineSource/GS2/SceneNode.h
+END
+PerformanceAnalysis.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/GamesDev/!svn/ver/323/EngineSource/GS2/PerformanceAnalysis.h
+END
+RaceTrack_Sector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/GamesDev/!svn/ver/299/EngineSource/GS2/RaceTrack_Sector.cpp
+END
+MicroTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/GamesDev/!svn/ver/202/EngineSource/GS2/MicroTimer.h
+END
+VehicleEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/GamesDev/!svn/ver/319/EngineSource/GS2/VehicleEntity.h
+END
+PropEntity.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/PropEntity.h
+END
+gs2.ico
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/gs2.ico
+END
+precom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/GamesDev/!svn/ver/271/EngineSource/GS2/precom.cpp
+END
+hr_time.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/GamesDev/!svn/ver/269/EngineSource/GS2/hr_time.cpp
+END
+Camera.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/GamesDev/!svn/ver/193/EngineSource/GS2/Camera.cpp
+END
+VehicleController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/GamesDev/!svn/ver/300/EngineSource/GS2/VehicleController.h
+END
+Quaternion.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/GamesDev/!svn/ver/192/EngineSource/GS2/Quaternion.h
+END
+GS2.APS
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/GS2.APS
+END

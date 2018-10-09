@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="AI">
+      <UniqueIdentifier>{4d787416-cfb5-4ce3-9415-2192a0677bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{6a726c01-ae48-4744-b3ad-39cad2e6474c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DirectX">
+      <UniqueIdentifier>{beeb5c82-ceed-464a-8c5f-bfbaddb89322}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine">
+      <UniqueIdentifier>{ff31e2f5-55d8-44df-9a6c-3e38d167de04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Controllers">
+      <UniqueIdentifier>{df18b5d7-4176-4396-ad3a-3fd229b89a98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\SceneGraph">
+      <UniqueIdentifier>{8ffbad0d-a741-4551-86a4-a9e8fed69de0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Extra">
+      <UniqueIdentifier>{f4259a41-29f8-475e-82e4-ac167ab90db0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Win32">
+      <UniqueIdentifier>{a5fc25b5-d9f2-4c06-a197-f00c35ec7558}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components">
+      <UniqueIdentifier>{e199c0f2-1a83-4899-9ff5-c5e49d590b59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Managers">
+      <UniqueIdentifier>{8536a59e-a24f-4c07-a611-f6f6b4777158}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Managers\Input">
+      <UniqueIdentifier>{5cd8b9dc-6500-480a-a8dd-aed2f7f78e93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Managers\Screen">
+      <UniqueIdentifier>{666efcf5-1e10-4e41-b6ba-76e4611a0592}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Managers\Screen\GameScreen">
+      <UniqueIdentifier>{d6718789-f6e1-47b5-a755-20d58f39f4e3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Controllers">
+      <UniqueIdentifier>{d187e0d1-6e67-4f25-978a-1781b71ab21e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Components\Controllers\Music">
+      <UniqueIdentifier>{b2476c04-2ba1-436c-ad74-54ea06d7b255}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Engine\Entities">
+      <UniqueIdentifier>{ad685322-66fb-4d61-aa91-2af4e34defac}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Components\Managers\Input\cInputManager.cpp">
+      <Filter>Components\Managers\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\cScreenManager.cpp">
+      <Filter>Components\Managers\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\cGameScreenSplash.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\IGameScreen.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\cSprite.cpp">
+      <Filter>Components\Managers\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="AI.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="Bezier.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Sound.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Colours.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="MatrixLib.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Quaternion.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Random.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D3DRenderer.cpp">
+      <Filter>DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="ContentManager.cpp">
+      <Filter>DirectX</Filter>
+    </ClCompile>
+    <ClCompile Include="VehicleController.cpp">
+      <Filter>Engine\Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="PropEntity.cpp">
+      <Filter>Engine\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="VehicleEntity.cpp">
+      <Filter>Engine\Entities</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneNode.cpp">
+      <Filter>Engine\SceneGraph</Filter>
+    </ClCompile>
+    <ClCompile Include="BulletPhysics.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="GameWorld.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="CellularAutomata.cpp">
+      <Filter>Extra</Filter>
+    </ClCompile>
+    <ClCompile Include="GS2.cpp">
+      <Filter>Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraController.cpp">
+      <Filter>Engine\Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\cQuad.cpp">
+      <Filter>Components\Managers\Screen</Filter>
+    </ClCompile>
+    <ClCompile Include="ParticleSystem.cpp">
+      <Filter>Engine</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Controllers\Music\cMusic.cpp">
+      <Filter>Components\Controllers\Music</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Controllers\Music\cMusicController.cpp">
+      <Filter>Components\Controllers\Music</Filter>
+    </ClCompile>
+    <ClCompile Include="hr_time.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="PerformanceAnalysis.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="MicroTimer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="racingLine.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="TrackController.cpp">
+      <Filter>Engine\Controllers</Filter>
+    </ClCompile>
+    <ClCompile Include="RaceController.cpp">
+      <Filter>AI</Filter>
+    </ClCompile>
+    <ClCompile Include="precom.cpp">
+      <Filter>Win32</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\cGameScreenController.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\cGameScreenHud.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\cGameScreenLoading.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\cGameScreenTrack.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\cGameScreenCar.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+    <ClCompile Include="Components\Managers\Screen\GameScreen\cGameScreenCarBasic.cpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common\Defines.hpp">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Input\cInputManager.hpp">
+      <Filter>Components\Managers\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Input\InputAction.hpp">
+      <Filter>Components\Managers\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\cScreenManager.hpp">
+      <Filter>Components\Managers\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\cGameScreenSplash.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\IGameScreen.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\cSprite.hpp">
+      <Filter>Components\Managers\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="AI.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="Bezier.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector3.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Collision.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Colours.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalMacros.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="iRandom.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Keyframe.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MathLib.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MatrixLib.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Quaternion.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Random.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Sound.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Vector2.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D3DRenderer.h">
+      <Filter>DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="ContentManager.h">
+      <Filter>DirectX</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseController.h">
+      <Filter>Engine\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="VehicleController.h">
+      <Filter>Engine\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="CameraController.h">
+      <Filter>Engine\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="TrackController.h">
+      <Filter>Engine\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="BaseEntity.h">
+      <Filter>Engine\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="VehicleEntity.h">
+      <Filter>Engine\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="PropEntity.h">
+      <Filter>Engine\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneNodeGraph.h">
+      <Filter>Engine\SceneGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneNode.h">
+      <Filter>Engine\SceneGraph</Filter>
+    </ClInclude>
+    <ClInclude Include="BulletPhysics.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="GameWorld.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Physics.h">
+      <Filter>Extra</Filter>
+    </ClInclude>
+    <ClInclude Include="CellularAutomata.h">
+      <Filter>Extra</Filter>
+    </ClInclude>
+    <ClInclude Include="GS2.h">
+      <Filter>Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\cQuad.hpp">
+      <Filter>Components\Managers\Screen</Filter>
+    </ClInclude>
+    <ClInclude Include="ParticleSystem.h">
+      <Filter>Engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Controllers\Music\cMusic.hpp">
+      <Filter>Components\Controllers\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Controllers\Music\cMusicController.hpp">
+      <Filter>Components\Controllers\Music</Filter>
+    </ClInclude>
+    <ClInclude Include="InputController.h">
+      <Filter>Engine\Controllers</Filter>
+    </ClInclude>
+    <ClInclude Include="precom.h">
+      <Filter>Win32</Filter>
+    </ClInclude>
+    <ClInclude Include="PerformanceAnalysis.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="hr_time.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="MicroTimer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="racingLine.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="BlimpEntity.h">
+      <Filter>Engine\Entities</Filter>
+    </ClInclude>
+    <ClInclude Include="utilities.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="RaceController.h">
+      <Filter>AI</Filter>
+    </ClInclude>
+    <ClInclude Include="MilliTimer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\cGameScreenLoading.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\cGameScreenController.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\cGameScreenHud.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\cGameScreenTrack.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\cGameScreenCar.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+    <ClInclude Include="Components\Managers\Screen\GameScreen\cGameScreenCarBasic.hpp">
+      <Filter>Components\Managers\Screen\GameScreen</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="GS2.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="small.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GS2.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

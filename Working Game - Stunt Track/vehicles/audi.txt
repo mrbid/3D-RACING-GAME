@@ -1,0 +1,33 @@
+chassisModel: audichassis.X
+leftFrontWheelModel: audileft.X
+rightFrontWheelModel: audiright.X
+leftRearWheelModel: audileft.X
+rightRearWheelModel: audiright.X
+chassisScale: 0.1
+
+wheelPositionFrontLeft: 2.8, -0.3, 4.9
+wheelPositionFrontRight: -2.8, -0.3, 4.9
+wheelPositionRearLeft: 2.8, -0.3, -5.2
+wheelPositionRearRight: -2.8, -0.3, -5.2
+
+maxSteering: 0.3
+frontWheelRadius: 1.26
+backWheelRadius: 1.26
+chassisMass: 1000.0
+maxBreakingForce: 3000.0
+maxSpeedKPH: 600.0
+maxEngineForce: 6000.0
+accelerationForce: 14000.0
+accelerationStamina: 0.35
+skidForce: 2000.0
+wheelFriction: 0.7
+rollInfluence: 0.04
+
+suspensionStiffness: 80.0
+suspensionRelaxation: 5.0
+suspensionCompression: 4.5
+suspensionRestLength:  1.2
+maxSuspensionForce: 9000.0
+maxSuspensionTravelCm: 40.0
+frictionSlip: 5.0
+wheelDrive: FRONTWHEEL

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask
+END
+SpuGatheringCollisionTask.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuGatheringCollisionTask.cpp
+END
+SpuMinkowskiPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuMinkowskiPenetrationDepthSolver.h
+END
+SpuGatheringCollisionTask.h
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuGatheringCollisionTask.h
+END
+SpuPreferredPenetrationDirections.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuPreferredPenetrationDirections.h
+END
+boxBoxDistance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/boxBoxDistance.cpp
+END
+boxBoxDistance.h
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/boxBoxDistance.h
+END
+SpuContactResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.cpp
+END
+SpuLocalSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuLocalSupport.h
+END
+SpuContactResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuContactResult.h
+END
+SpuCollisionShapes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuCollisionShapes.cpp
+END
+SpuConvexPenetrationDepthSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuConvexPenetrationDepthSolver.h
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/readme.txt
+END
+SpuMinkowskiPenetrationDepthSolver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuMinkowskiPenetrationDepthSolver.cpp
+END
+SpuCollisionShapes.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/SpuCollisionShapes.h
+END
+Box.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/GamesDev/!svn/ver/9/EngineSource/GS2/bullet/src/BulletMultiThreaded/SpuNarrowPhaseCollisionTask/Box.h
+END
